@@ -35,3 +35,13 @@ git push -u origin main
 get int
 get init
 git init
+git add .
+git status
+git commit -m "Initial commit"
+git commit -m "Initial commit"
+git commit -m "Initial commit"\
+git commit -m "Initial commit"
+git remote -V
+git commit -m" Initial Commit"
+clear
+git init
