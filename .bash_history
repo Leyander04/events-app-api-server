@@ -26,3 +26,12 @@ git init
 git add
 git status
 git add.
+git add .
+git status
+git commit -m "Initial commit"
+git remote add origin https://github.com/Leyander04/events-app-api-server.git
+git branch -M main
+git push -u origin main
+get int
+get init
+git init
